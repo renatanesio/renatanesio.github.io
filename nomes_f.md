@@ -1,6 +1,6 @@
 layout: page
 title: "Nomes Femininos - IBGE"
-permalink: /nomes_ibge/nomes_f
+permalink: /nomes_ibge/nomes_f.json
 
 [
   {
